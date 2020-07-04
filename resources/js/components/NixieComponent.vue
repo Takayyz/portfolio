@@ -67,6 +67,7 @@ export default {
 .light_up_wire{
   position: absolute;
   transform: scale(0.8, 1.0);
+  line-height: 1.5;
 }
 
 .nixie_wire {
