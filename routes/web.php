@@ -11,6 +11,6 @@
 |
 */
 
-Route::get('top', function () {
+Route::get('/', function () {
     return view('index');
 });
